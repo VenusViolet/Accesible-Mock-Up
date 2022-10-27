@@ -7,14 +7,14 @@
 body {
     background-color: #d9dcd6;
 }
-
+/*Corretly displays title for webpage name*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/*Makes sure that the title of the webpage is formated correctly by following font, background color, and color*/
 .header h1 {
     display: inline-block;
     font-size: 48px;
@@ -23,7 +23,7 @@ body {
 .header h1 .seo {
     color: #d9dcd6;
 }
-
+/*Added nav so that the CSS makes sense with the improved HTML format*/
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -68,7 +68,6 @@ p {
     float: right;
     margin-left: 25px;
 }
-
 .content {
     width: 75%;
     display: inline-block;
@@ -86,6 +85,7 @@ p {
     background-color: #2589bd;
 }
 
+/*Combined the class for the aside semantics to work for all of these with the new class name benefit */
 .benefit {
     margin-bottom: 32px;
     color: #ffffff;
@@ -102,6 +102,7 @@ p {
     max-width: 150px;
 }
 
+/*Combined the class for the article semantics to work for all of these with the new class name of feature */
 .feature {
     margin-bottom: 20px;
     padding: 50px;
