@@ -23,5 +23,5 @@ enshot 2022-10-26 at 10 03 31 PM" src="https://user-images.githubusercontent.com
 Nico Westgard reviewed and helped with the coding process.
 
 ## Licence 
-Please refer to the License in the repository.
+MIT License 
 
